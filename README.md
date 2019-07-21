@@ -1,4 +1,4 @@
-# passport-facebook
+# passport-[Facebook](https://aapks.com/apk/facebook/)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Facebook](http://www.facebook.com/)
 using the OAuth 2.0 API.
@@ -28,7 +28,7 @@ unobtrusively integrated into any application or framework that supports
 
 #### Create an Application
 
-Before using `passport-facebook`, you must register an application with
+Before using `passport-[Facebook](https://aapks.com/apk/facebook/)`, you must register an application with
 Facebook.  If you have not already done so, a new application can be created at
 [Facebook Developers](https://developers.facebook.com/).  Your application will
 be issued an app ID and app secret, which need to be provided to the strategy.
